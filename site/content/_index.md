@@ -1,21 +1,76 @@
 ---
-title: Great coffee without a conscience
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Watch Your Words
+subtitle: Natural Language Processesing and the Problem of Bias
+image: /img/adobestock_171447419-sm.jpeg
 blurb:
-  heading: Why Kaldi?
+  heading: 'What''s the problem? '
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Natural Language Processing (NLP) is a field within computer science that
+    focuses on allowing 
+
+    computers to interpret, understand, and manipulate human language. 
+
+
+    The ability these APIs generate — to understand and respond to human
+    generated text and 
+
+    emotion — sits at the heart of successful human-machine interaction. It also
+    looks set to 
+
+    become an increasingly pervasive feature of our lives. However, the
+    computerized interpretation
+
+    of human language and emotion is fraught with difficulties. In particular,
+    the language we use 
+
+    reveals a great deal about who we are — our class, gender, race, education
+    level, and national 
+
+    background — making us vulnerable to new forms of bias or discrimination.
+
+
+    Investigating these questions, one major academic study found evidence of
+    gender and racial bias 
+
+    in 200 publically available sentiment-analysis APIs (Kiritchenko, 2018).
+    Another study focused on 
+
+    tweets from different subgroups and found that ‘current systems sometimes
+    analyze the language 
+
+    of females and minorities more poorly than they do of whites and males’. In
+    particular, they found a 
+
+    ‘racial disparity in accuracy difference’ for African Americans (Blodgett
+    and O’Connor, 2017). 
+
+
+    These issues have the potential to cause real harm. Sentiment analysis tools
+    are already used at 
+
+    scale for a wide variety of purposes, including the development of
+    recommendation systems that 
+
+    parse written reviews, the creation of more human-like customer service
+    chatbots, and the triage 
+
+    of text messages received by crisis response lines, in order to identify the
+    most vulnerable people. 
+
+
+    To cast further light on the question of bias in NLP sentiment analysis, our
+    team surveyed and 
+
+    compared the output of four major commercial APIs: those provided by IBM
+    Watson, Amazon, 
+
+    Microsoft and Google.
 intro:
-  heading: The things that we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Analysius
+  text: |-
+    We looked at 2 datasets. 
+    1) 
+    2) 
 products:
   - image: img/illustrations-coffee.svg
     text: >-
