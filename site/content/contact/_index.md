@@ -3,13 +3,14 @@ title: Team
 logo: /img/nlp-team-transparent.png
 contact_entries:
   - heading: Team Member
-    text: |+
+    text: |
       Erich Ludwig  
 
       Bernease Herman  
 
       Walt Frick  
 
+      With advisory assistance from Iason Gabriel & Joseph Williams
   - heading: Contact
     text: |
       Some email here
