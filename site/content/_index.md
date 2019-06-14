@@ -41,11 +41,13 @@ blurb:
     team surveyed and compared the output of four major commercial APIs: those
     provided by IBM Watson, Amazon, Microsoft and Google.
 intro:
-  heading: Analysius
+  heading: Analysis
   text: |-
     We looked at 2 datasets. 
-    1) 
-    2) 
+
+    1) English as a Second Language
+
+    2) EEC
 products:
   - image: img/illustrations-coffee.svg
     text: >-
